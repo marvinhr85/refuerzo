@@ -1,0 +1,17 @@
+/*  */
+h1{
+    background: brown;
+}
+p{ 
+    background: red;
+}
+ul li a{
+color: greenyellow
+}
+/* Selector de clase */
+.😋{
+    color: red
+}
+#font{
+    font-size: 100px
+}

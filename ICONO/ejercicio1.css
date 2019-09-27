@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+ul{
+    text-align: center;
+    background-color: black;
+    margin: 50px;
+
+    }
+li{
+    display: inline-block;
+    margin-right: 100px;
+    color: aliceblue;
+    padding: 20px;
+
+}    

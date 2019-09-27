@@ -1,0 +1,32 @@
+/* todo el texto */
+* {
+    font: 1em;
+    text-align: justify;
+}
+/* todos los parrafos de la pagina */
+p {
+    color: #555;
+}
+/* solo losparrafos contenidos en el id primero */
+#primero p {
+    color: #336699;
+}
+/* todos los enlaces de la pagina */
+a {
+    color: #cc3300;
+}
+/* los elementos em contenidos en primero */
+#primero em {
+    background: #ffffcc;
+    padding: 20px;    
+}
+/* todos los elemntos de em en clase especial */
+.especial {
+    background: #ffcc99;
+    border: 1px solid #ff9900;
+    padding: .1em;
+}
+/* elementos span contenidos en .normal */
+.normal span{
+    font-weight:bold;
+}

@@ -1,0 +1,22 @@
+div{
+    padding: 60px;
+    position: absolute;
+    background-color: yellow;
+}
+h1{
+    background: aqua;
+/* margin-top: 200px; */
+position: absolute;
+bottom: 11px;
+/* left: 130px; */
+/* right: 100px; */
+}
+.box1{
+    color: black;
+}
+.box2{
+    color: red;
+}
+.box3{
+    color: blue;
+}

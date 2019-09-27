@@ -1,0 +1,44 @@
+.caja{
+    background-color: green;
+    width: 1200px;
+    height: 700px;
+    margin: 70px auto;
+    position: relative;
+    border: 30px double white;
+}
+.arco1{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    left: 0px;
+    border-width: 10px 10px 10px 0px;
+    border-style: solid;
+    border-color: white;
+}
+.arco2{
+    background-color: green;
+    width: 100px;
+    height: 200px;
+    position: absolute;
+    top: 250px;
+    right: 0px;
+    border-width: 10px 0px 10px 10px;
+    border-style: solid;
+    border-color: white;
+}
+.centro{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border-width: 10px;
+    border-style: solid;
+    border-color: white;
+    position: absolute;
+    top: 250px;
+    right: 500px;
+
+
+}

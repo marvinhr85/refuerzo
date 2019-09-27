@@ -1,0 +1,29 @@
+p{
+    background: red !important;
+}
+.color{
+    background: green;
+}
+#color_id{
+    background: yellow;
+}
+.cascada{
+    color: aqua;
+}
+.cascada{
+    color: red;
+}
+.cascada{
+    color: green;
+}
+div .cascada{
+    color: brown;
+}
+.herencia{
+    color: blueviolet;
+    font-size:40px;
+}
+a{
+    color:inherit;
+    font-size: inherit;
+}

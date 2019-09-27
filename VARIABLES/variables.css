@@ -1,0 +1,14 @@
+:root{
+    --color:gray;   
+}
+body{
+    background:var(--color) ;
+}
+h1{
+    background: black;
+    color:var(--color);
+}
+p{
+    background: yellow;
+    color:var(--color);
+}

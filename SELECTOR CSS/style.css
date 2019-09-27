@@ -1,0 +1,11 @@
+/* Selector hijo */
+div span{
+    color: blue;
+}
+div>span{
+    color: red;
+}
+/* Pseudoclase */
+p:hover{
+    background: green;
+}

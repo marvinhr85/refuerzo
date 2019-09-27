@@ -1,0 +1,18 @@
+div{
+    padding: 60px;
+}
+h1{
+    background: aqua;
+/* margin-top: 200px; */
+position: relative;
+left: 80px;
+}
+.box1{
+    color: black;
+}
+.box2{
+    color: red;
+}
+.box3{
+    color: blue;
+}

@@ -1,0 +1,11 @@
+.border{
+    width: 400px;
+    height: 300px;
+    background-color: greenyellow   ;
+    margin: 200 auto;
+    border-radius: 50%;
+    /* border-top-left-radius: 50px;
+    border-top-right-radius: 80px;
+    border-bottom-left-radius: 190px;
+    border-bottom-right-radius: 15px; */
+}

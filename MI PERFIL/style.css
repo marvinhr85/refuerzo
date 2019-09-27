@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background: pink;
+}
+h1 {
+    font-size: 60px;
+    color: brown;
+
+}
+p {
+    text-shadow: 3px 3px 7px blue;
+    font-size: 30px;
+}

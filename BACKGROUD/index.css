@@ -1,0 +1,13 @@
+body{
+    background-color: red;
+}
+.box{
+    width: 600px;
+    height: 400px;
+    background-color: blueviolet;
+    margin: 80px auto;
+    background-image: url(perro.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: bottom 20px left 30px;
+}

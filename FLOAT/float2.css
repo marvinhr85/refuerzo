@@ -1,0 +1,11 @@
+#paginacion{
+    background-color: silver;
+    height: 50px;
+    width: 100%;
+}
+.izquierda{
+    float: left;
+}
+.derecha{
+    float: right;
+}
